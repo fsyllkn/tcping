@@ -5,5 +5,4 @@
 
 或者
 
-
 ```bash <(wget -qO- https://raw.githubusercontent.com/fsyllkn/tcping/main/install.sh)```
