@@ -5,7 +5,7 @@
 bash <(curl -s https://raw.githubusercontent.com/fsyllkn/tcping/main/install.sh)
 ```
 
-- 或者
+或者
 
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/fsyllkn/tcping/main/install.sh)
