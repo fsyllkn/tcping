@@ -31,7 +31,7 @@ root@aml-s812:~#
 #，不写端口的话，默认80端口
 tcping 1.1.1.1
 ```
-```
+```text文本
 ###=====不写端口，默认80，返回结果：
 root@aml-s812:~# tcping 1.1.1.1
 seq 0: tcp response from one.one.one.one (1.1.1.1) [open]  153.817 ms
