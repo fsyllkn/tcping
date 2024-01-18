@@ -17,7 +17,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/fsyllkn/tcping/main/install.s
 ```
 tcping 1.1.1.1 53
 ```
-```
+```text文本
 ###=====ping 53端口，返回结果：
 root@aml-s812:~# tcping 1.1.1.1 53
 seq 0: tcp response from one.one.one.one (1.1.1.1) [open]  170.310 ms
