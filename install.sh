@@ -21,4 +21,4 @@ chmod +x tcping
 
 # 测试 TCPING
 tcping --version
-echo "安装成功，请使用命令tcping 8.8.8.8 53测试是否可用"
+echo "安装成功，请使用命令tcping 8.8.8.8 53测试是否可用。参考https://www.mengclaw.com/2018/06/03/184/"
