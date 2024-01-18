@@ -41,7 +41,7 @@ seq 2: tcp response from one.one.one.one (1.1.1.1) [open]  156.691 ms
 root@aml-s812:~# 
 ```
 # 附：手动安装步骤
-##参考[【原创】Linux下的TCP测试工具——TCPING安装简明教程](https://www.mengclaw.com/2018/06/03/184/)
+* 参考[【原创】Linux下的TCP测试工具——TCPING安装简明教程](https://www.mengclaw.com/2018/06/03/184/)
 <details>
 <summary><code><strong>「 点击展开 手动安装步骤 」</strong></code></summary>
 
